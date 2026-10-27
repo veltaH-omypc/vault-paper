@@ -245,3 +245,5 @@ commit changes
 | `--dg-transclusion-padding` | `8px` | Transclusion container padding |
 | `--dg-external-link-icon-size` | `13px` | External link icon size |
 | `--dg-external-link-padding` | `16px` | External link right padding |
+
+commit changes
