@@ -237,13 +237,8 @@ You can override the base Obsidian theme color variables directly:
 | Variable | Default | Description |
 |----------|---------|-------------|
 | `--dg-overlay-bg` | `rgba(0, 0, 0, 0.5)` | Overlay background color |
-
-commit changes
-
 | `--dg-mermaid-radius` | `25px` | Mermaid diagram border radius |
 | `--dg-mermaid-padding` | `10px` | Mermaid diagram padding |
 | `--dg-transclusion-padding` | `8px` | Transclusion container padding |
 | `--dg-external-link-icon-size` | `13px` | External link icon size |
 | `--dg-external-link-padding` | `16px` | External link right padding |
-
-commit changes
